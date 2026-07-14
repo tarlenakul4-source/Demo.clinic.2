@@ -1,0 +1,6 @@
+{
+  "name": "Premium Medical Clinic Portal",
+  "description": "A modern, premium, and fully responsive medical clinic website featuring real-time clinical info customization, professional services, doctor profiles, dynamic FAQs, and interactive communication links.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
